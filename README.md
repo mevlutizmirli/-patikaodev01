@@ -22,4 +22,4 @@ Aşağıdaki adımları yapınız.
 
 Lütfen ilk olarak [buradaki](https://www.google.com) dosyayı indiriniz. 
 
-![açıklama](https://twitter.com/patika_dev/photo)
+![açıklama](https://www.google.com/search?q=patika+dev+resmi&tbm=isch&ved=2ahUKEwjkjfzIsLv_AhWN_bsIHZa3Dq0Q2-cCegQIABAA&oq=patika+dev+resmi&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQGBCABFDRAVjiDWCPD2gAcAB4AIABkwGIAbsGkgEDMC43mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=rNOFZOSHD4377_UPlu-66Ao&bih=746&biw=1536#imgrc=WH37iI23c0ZcBM)
